@@ -1,0 +1,5 @@
+String Analysis:
+Gets 8 char String and return:
+is the sring is palindrome?
+if its a number - is it odd\even?
+if its a ABC string - Number of lower case
